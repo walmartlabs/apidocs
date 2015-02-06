@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>/WM%20To%20Go.ipa</string>
+					<string>http://walmartlabs.github.io/ios-releases/WM%20To%20Go.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
